@@ -15,7 +15,7 @@ description: >-
 
 # GitHub Pages configuration
 url: "https://runtimeexpection.github.io"
-baseurl: "/homepage"
+baseurl: ""
 
 github:
   username: RuntimeExpection
