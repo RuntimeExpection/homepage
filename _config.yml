@@ -8,14 +8,14 @@ lang: en
 timezone: Europe/Vienna
 
 # Site information
-title: Chirpy
-tagline: A text-focused Jekyll theme
+title: BynBang
+tagline: Beyond bytecode, beneath the surface.
 description: >-
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  BynBangs Research Blog.
 
 # GitHub Pages configuration
 url: "https://runtimeexpection.github.io"
-baseurl: "/bynbang.github.io"
+baseurl: "/homepage"
 
 github:
   username: RuntimeExpection
